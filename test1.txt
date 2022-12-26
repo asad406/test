@@ -1,3 +1,4 @@
 some tested text
 more tested text.
 extended tested text.
+logo bug is fixed.
